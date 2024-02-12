@@ -1,0 +1,21 @@
+Results:
+Rustic breakfast: 200 x $21.32 = $4264.0
+Sandwich with salad: 23 x $22.48 = $517.04
+Raw legums: 13 x $17.11 = $222.42999999999998
+Fresh stawberry: 221 x $28.59 = $6318.39
+Green smoothie: 580 x $17.68 = $10254.400000000001
+Cuban sandwiche: 2 x $18.5 = $37.0
+Hazelnut in black ceramic bowl: 7 x $27.35 = $191.45000000000002
+Tomatoes: 1 x $26.03 = $26.03
+Plums: 1231 x $19.18 = $23610.579999999998
+Fresh blueberries: 3744 x $21.01 = $78661.44000000002
+Corn: 1664 x $13.55 = $22547.2
+French fries: 37 x $18.32 = $677.84
+Ground beef meat burger: 146 x $11.73 = $1712.5800000000002
+Sweet fresh stawberry: 221 x $29.45 = $6508.45
+Homemade bread: 466 x $17.48 = $8145.679999999999
+Smoothie with chia seeds: 61 x $25.26 = $1540.8600000000001
+--------------------------------------------------
+Total: $165235.37
+
+Tiempo para ejecución del cálculo: 0.01562 seg
